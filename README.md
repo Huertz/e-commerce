@@ -52,7 +52,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Usage
 
-![alt text](./media/Note-Taker.png)
+![alt text](./media/sql-picture.png)
 
 ## Credits
 
