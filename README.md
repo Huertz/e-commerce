@@ -5,16 +5,16 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation? 
-My motiavtion for this project is to better understand express.js 
+My motiavtion for this project is to better understand sql 
 
 - Why did you build this project? 
-I builded this project becuase I wanted to create a note taker app
+I builded this project becuase I wanted to create a sql data base
 
 - What problem does it solve?
 It solves multiple problems 
 
 - What did you learn?
-I learned concepts of node.js and express.js. I really liked the concepts of back-end languages 
+I learned concepts of node.js and express.js with the addition of sql.
 
 ## Table of Contents (Optional)
 
@@ -62,11 +62,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 [Express](https://expressjs.com/)
 
-[Learn Express JS](https://www.youtube.com/watch?v=SccSCuHhOw0&list=LL&index=5&ab_channel=WebDevSimplified)
-
-[Guide](https://www.geeksforgeeks.org/how-to-build-note-taking-application-using-node-js/)
-
-[Guide](https://medium.com/@nnamani.ezinne/simple-note-taking-app-using-node-js-and-ejs-4899321a3342)
 
 ## License
 
